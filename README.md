@@ -23,8 +23,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trantuankhoabc&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="trantuankhoabc" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=trantuankhoabc&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="trantuankhoabc" width="100%"/>
+      <img src="http://img.shields.io/badge/Code%20Time-25%20hrs%209%20mins-blue" alt="trantuankhoabc" width="100%"/>
+      <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=trantuankhoabc&text_color=353535&bg_color=eeeeee&line_height=30&hide_title=true&title_color=5c5c5c&hide_border=true&icon_color=353535&show_icons=true" alt="trantuankhoabc" width="100%"/>
     </td>
     <td>
       <p align="center"> 
