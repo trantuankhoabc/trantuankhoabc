@@ -14,6 +14,7 @@
   <img src="https://img.icons8.com/color/48/000000/redis.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nginx.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/jetbrains.png"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
