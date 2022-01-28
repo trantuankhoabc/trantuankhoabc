@@ -10,14 +10,14 @@
 
 ## 📫 How to reach me:
 <p align="center">
+  <a href="https://t.me/trantuankhoabc" target="_blank">
+   <img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/>
+  </a>
   <a href="https://github.com/tuankhoatran" alt="Github">
     <img src="https://img.icons8.com/plasticine/48/000000/github-squared.png"/>
   </a>
   <a href="https://www.youtube.com/channel/UCN3v7IdTLZK_SWPYnpHHMdQ" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/doodle/48/000000/youtube-play--v2.png"/>
-  </a>
-   <a href="https://t.me/trantuankhoabc" target="_blank">
-    <img src="https://img.icons8.com/dusk/48/000000/telegram-app.png"/>
   </a>
 </p>
 
