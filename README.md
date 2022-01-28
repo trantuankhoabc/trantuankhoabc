@@ -1,9 +1,8 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h1 align="center">Hi 👋, I'm TaBa</h1>
 <h3 align="center">A map developer from Vietnam ™️</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tuankhoatran" alt="tuankhoatran" /> <img src="https://badges.pufler.dev/repos/tuankhoatran" alt="tuankhoatran" /> </p>
 
-- 🌱 I'm graduated: [Nong Lam University](https://www.hcmuaf.edu.vn/) (NLS).
+- 🌱 I'm learned: [Nong Lam University](https://www.hcmuaf.edu.vn/) (NLS).
 
 - ⛑️ And I'm currently working on **GIS.**
 
