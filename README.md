@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Nong Lam University](https://www.hcmuaf.edu.vn/) (NLS).
 
-- 🌱 I’m currently learning **GIS Stack.**
+- 🌱 I’m currently working on **GIS Stack.**
 
 
 ## 📫 How to reach me:
