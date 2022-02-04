@@ -23,4 +23,4 @@ const seto = {
     Figma],
 }
 ```
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=trantuankhoabc&text_color=353535&bg_color=eeeeee&line_height=30&hide_title=true&title_color=5c5c5c&hide_border=true&icon_color=353535&show_icons=true" alt="trantuankhoabc" width="50%"/>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=trantuankhoabc&text_color=353535&bg_color=eeeeee&line_height=30&hide_title=true&title_color=5c5c5c&hide_border=true&icon_color=353535&show_icons=true" alt="trantuankhoabc" width="58%"/>
