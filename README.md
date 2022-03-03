@@ -2,7 +2,7 @@
 <br>
 <img align="right" alt="GIF" width="40%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200"/>
 <p aligh="left">
-  I'm Map Developer from ☕️<b> Ho Chi Minh, Viet Nam</b>.</p>
+  I'm Map Developer from ☕️<b> Viet Nam</b>.</p>
 </p>
 <br>
   ✨ Current situation
