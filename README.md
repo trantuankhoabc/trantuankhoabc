@@ -7,7 +7,7 @@
   I'm Khoa, Map Developer from ☕️<b>Ho Chi Minh, Viet Nam</b>.</p>
   
   💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://angular.io/" target="_blank"><u>Angular</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" target="_blank"><u>ASP.NET</u></a>.\
+  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://angular.io/" target="_blank"><u>Angular</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><u>ASP.NET</u></a>.\
   ✍🏼 I'm learned: [Nong Lam University](https://www.hcmuaf.edu.vn/) (NLS).\
   ⛑️ And I'm currently working on **GIS.**
 </p>
