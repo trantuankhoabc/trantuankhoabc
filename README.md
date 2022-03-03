@@ -7,7 +7,7 @@
 <br>
   ✨ Current situation
 
-- 🔭 I'm learned: [Nong Lam University](https://www.hcmuaf.edu.vn/) (NLS)
+- 🔭 I'm learned: Nong Lam University
 - 🌱 I’m currently learning Angular/Typescript, Blazor and ASP.NET Core GraphQL
 - ⛑️ And I'm currently working on **GIS**
 - 
