@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" width="40%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200"/>
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Khoa, Map Developer from ☕️<b>Hồ Chí Minh, Việt Nam</b>.</p>
+  I'm Khoa, Map Developer from ☕️<b>Ho Chi Minh, Viet Nam</b>.</p>
   
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://angular.io/" target="_blank"><u>Angular</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" target="_blank"><u>ASP.NET</u></a>.\
