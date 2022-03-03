@@ -8,7 +8,7 @@
   ✨ Current situation
 
 - 🔭 I'm learned: Nong Lam University
-- 🌱 I’m currently learning Angular/Typescript, Blazor and ASP.NET Core GraphQL
+- 🌱 I’m currently learning Angular/Typescript and ASP.NET Core GraphQL
 - ⛑️ And I'm currently working on **GIS**
 - 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
