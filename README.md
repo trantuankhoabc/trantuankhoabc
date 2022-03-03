@@ -1,18 +1,16 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Khoa 🚀</b>
+# 👋 <b>Hi, I'm Khoa 🚀</b>
 <br>
-
 <img align="right" alt="GIF" width="40%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200"/>
 <p aligh="left">
-  <p>Hey there, welcome!</br>
-  I'm Khoa, Map Developer from ☕️<b>Ho Chi Minh, Viet Nam</b>.</p>
-  
-  💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://angular.io/" target="_blank"><u>Angular</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><u>ASP.NET</u></a>.\
-  ✍🏼 I'm learned: [Nong Lam University](https://www.hcmuaf.edu.vn/) (NLS).\
-  ⛑️ And I'm currently working on **GIS.**
+  I'm Map Developer from ☕️<b> Ho Chi Minh, Viet Nam</b>.</p>
 </p>
 <br>
+  ✨ Current situation
 
+- 🔭 I'm learned: [Nong Lam University](https://www.hcmuaf.edu.vn/) (NLS)
+- 🌱 I’m currently learning Angular/Typescript, Blazor and ASP.NET Core GraphQL
+- ⛑️ And I'm currently working on **GIS**
+- 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
