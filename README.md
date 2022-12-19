@@ -3,7 +3,7 @@
 <h2> 👋 <b>Hi, I'm Khoa 🚀</h2>
 </div>
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFD617&size=20&multiline=true&width=515&lines=Welcome+to+Github+Profile" alt="Welcome!"/></div>
+<div align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFD617&size=20&multiline=true&width=515&lines=Welcome+to+Github+Profile" alt="Welcome!"/></div>
 
 <p align="center"> You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
