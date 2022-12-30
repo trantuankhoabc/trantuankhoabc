@@ -1,4 +1,3 @@
-# 👋 <b>Hi, I'm Khoa 🚀</b>
 <div align="center">
 <h2> 👋 <b>Hi, I'm Khoa 🚀</h2>
 </div>
