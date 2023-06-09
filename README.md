@@ -1,7 +1,7 @@
 <div align="center">
 <h2> 👋 <b>WELCOME TO MY PAGE 🚀</h2>
 </div>
-My name is Khoa.Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+My name is Khoa. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues/new"><b>Here</b></a><br>
 
 ---
