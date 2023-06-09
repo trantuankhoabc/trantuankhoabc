@@ -1,7 +1,7 @@
 <div align="center">
-<h2> 👋 <b>Hi, I'm Khoa 🚀</h2>
+<h2> 👋 <b>WELCOME TO MY PAGE 🚀</h2>
 </div>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+My name is Khoa.Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues/new"><b>Here</b></a><br>
 
 ---
@@ -16,6 +16,9 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 - 🔭 I'm learned: Nong Lam University
 - 🌱 I’m currently learning Angular/Typescript and ASP.NET Core GraphQL
 - ⛑️ And I'm currently working on **GIS**
+## 📫 How to reach me: 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
