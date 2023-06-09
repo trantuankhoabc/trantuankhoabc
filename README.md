@@ -18,7 +18,7 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 - ⛑️ And I'm currently working on **GIS**
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tr%E1%BA%A7n-tu%E1%BA%A5n-khoa-12b250241/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/trantuankhoabc/) 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
