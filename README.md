@@ -17,7 +17,7 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 - 🌱 I’m currently learning Angular/Typescript and ASP.NET Core GraphQL
 - ⛑️ And I'm currently working on **GIS**
 ## 📫 How to reach me: 
-
+https://img.icons8.com/?size=100&id=118553&format=png&color=000000
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trantuankhoabc/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/trantuankhoabc/) 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
