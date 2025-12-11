@@ -71,38 +71,19 @@
 
 </div>
 
+<br>
+
 ---
 
 ### 🐾 Achievements & Stats
 
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=trantuankhoabc&theme=flat&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Khoa's Trophies" />
-  </a>
-  
-  <br><br>
-
   <p>
-    <a href="https://github.com/trantuankhoabc">
-      <img src="https://github-readme-stats.vercel.app/api?username=trantuankhoabc&theme=radical&hide_border=true&count_private=true&show_icons=true" height="170" alt="Khoa's Stats" />
-    </a>
     <a href="https://github.com/trantuankhoabc">
       <img src="https://streak-stats.demolab.com?user=trantuankhoabc&theme=radical&hide_border=true&mode=weekly" height="170" alt="GitHub Streak" />
     </a>
   </p>
-
-  <a href="https://github.com/trantuankhoabc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trantuankhoabc&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" width="85%" alt="Top Languages" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/trantuankhoabc">
-    <img src="https://github-readme-snake.vercel.app/api?username=trantuankhoabc&palette=github-dark&color_snake=E25A5A&color_dots=20C20E" alt="Snake Game" width="100%" />
-  </a>
-
-  <br><br>
 
   <a href="https://github.com/trantuankhoabc">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=trantuankhoabc&bg_color=141321&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" width="100%" alt="Activity Graph" />
