@@ -71,35 +71,23 @@
 
 </div>
 
----
+<br>
 
-### 🐾 Achievements & Stats
+### 🐾 My Typical ERP Architecture
 
-<div align="center">
+Mô hình kiến trúc Backend tiêu chuẩn tôi áp dụng cho các hệ thống ERP hiệu suất cao:
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=trantuankhoabc&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Khoa's Trophies" />
-  </a>
-  
-  <br><br>
-
-  <p>
-    <a href="https://github.com/trantuankhoabc">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trantuankhoabc&theme=radical&hide_border=true&count_private=true&show_icons=true" height="170" alt="Khoa's Stats" />
-    </a>
-    <a href="https://github.com/trantuankhoabc">
-      <img src="https://streak-stats.demolab.com?user=trantuankhoabc&theme=radical&hide_border=true&mode=weekly" height="170" alt="GitHub Streak" />
-    </a>
-  </p>
-
-  <a href="https://github.com/trantuankhoabc">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=trantuankhoabc&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="140" alt="Top Languages" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/trantuankhoabc">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=trantuankhoabc&bg_color=141321&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
-
-</div>
+```mermaid
+graph LR
+    User(Client / Frontend) -->|REST API| API_GW[API Gateway / Nginx]
+    API_GW -->|Load Balance| App_Service[Python/Django Service]
+    App_Service -->|Read/Write| DB[(PostgreSQL)]
+    App_Service -->|Cache| Redis[(Redis Cache)]
+    App_Service -->|Async Tasks| Celery[Celery Worker]
+    Celery -->|Broker| RabbitMQ[RabbitMQ]
+    
+    %% Styling
+    style User fill:#f9f,stroke:#333,stroke-width:2px
+    style App_Service fill:#bbf,stroke:#333,stroke-width:2px
+    style DB fill:#bfb,stroke:#333,stroke-width:2px
+    style Redis fill:#ff9,stroke:#333,stroke-width:2px
