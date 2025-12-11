@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://i.imgur.com/P4c1vW3.png" width="100%" style="border-radius: 20px; max-height: 250px; object-fit: cover;" alt="Header Banner" />
+  <img src="https://images.unsplash.com/photo-1519681393798-2f77637a0021?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" width="100%" style="border-radius: 15px; max-height: 250px; object-fit: cover;" alt="Header Banner" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <h1 style="color: #764ba2;">🐼 Hi there, I'm Tran Tuan Khoa 🐼</h1>
+  <h1 style="color: #764ba2;">🐾 Hi there, I'm Tran Tuan Khoa 🐾</h1>
   <h3 style="color: #555;">🗺️ Map Developer | GIS Specialist | Web Developer</h3>
 
   <p>
@@ -29,11 +29,11 @@
   <tr>
     <td width="60%" valign="middle" style="padding: 20px;">
       <h3 style="color: #764ba2; margin-bottom: 10px;">🛠️ KUtils-Pro: Utilities Collection</h3>
-      <p>A modern, all-in-one utilities website offering various online tools for developers and everyday users. Built with a focus on clean UI and user experience.</p>
-      <p><b>🐼 Key Features:</b></p>
+      <p>A modern, all-in-one utilities website offering various online tools for developers and everyday users.</p>
+      <p><b>🐾 Key Features:</b></p>
       <ul>
-        <li>Modern, clean "card-based" UI inspired by cute mascots.</li>
-        <li>Collection of useful online tools (converters, formatters, etc.).</li>
+        <li>Modern, clean "card-based" UI.</li>
+        <li>Collection of useful online tools.</li>
         <li>Responsive design.</li>
       </ul>
       <br/>
@@ -43,7 +43,7 @@
     </td>
     <td width="40%" valign="middle" style="padding: 0;">
       <a href="https://kutils-pro.netlify.app/" target="_blank">
-      <img src="https://i.imgur.com/8qK5KkY.png" alt="KUtils Pro Screenshot" style="width: 100%; height: 100%; object-fit: cover; border-top-right-radius: 15px; border-bottom-right-radius: 15px; display: block;" />
+        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" alt="Project Screenshot" style="width: 100%; height: 100%; object-fit: cover; border-top-right-radius: 15px; border-bottom-right-radius: 15px; display: block;" />
        </a>
     </td>
   </tr>
@@ -51,44 +51,30 @@
 </div>
 <br>
 
-<div style="height: 2px; background: linear-gradient(to right, #e0e0e0, #764ba2, #e0e0e0); border-radius: 2px; margin: 20px 0;"></div>
-
-
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" valign="top" style="padding-right: 15px;">
-      <div style="box-shadow: 0 2px 5px rgba(0,0,0,0.05); padding: 15px; border-radius: 12px; border: 1px solid #eee;">
-          <h2 style="color: #764ba2; border-bottom: 2px solid #00cece; display: inline-block; padding-bottom: 5px;">🐼 About Me</h2>
-          <p>I am a passionate Map Developer from <b>Ho Chi Minh City, Vietnam</b> 🇻🇳. I specialize in combining Geographic Information System (GIS) technology with modern Web Development to create insightful spatial applications.</p>
-          <br />
-          <ul style="list-style-type: none; padding-left: 0;">
-            <li>🎂 <b>DOB:</b> 26/04/1995</li>
-            <li>📍 <b>Location:</b> Tan Nhut, Ho Chi Minh City</li>
-            <li>🔭 <b>Currently Working on:</b> GIS Projects & Web Apps like KUtils-Pro</li>
-            <li>🌱 <b>Learning focus:</b> Advanced Spatial Databases & Modern frontend/backend integration.</li>
-          </ul>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="padding-left: 15px;">
-      <div style="box-shadow: 0 2px 5px rgba(0,0,0,0.05); padding: 15px; border-radius: 12px; border: 1px solid #eee; height: 100%;">
-        <h2 style="color: #764ba2; border-bottom: 2px solid #00cece; display: inline-block; padding-bottom: 5px;">🎓 Education</h2>
-        <h4>Nong Lam University (Ho Chi Minh City)</h4>
-        <p><b>Major:</b> Geographic Information System (GIS)</p>
-        <p>⏳ <b>Period:</b> 09/2014 – 09/2018</p>
-        <p>🏆 <b>GPA:</b> 2.89 / 4.0</p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="box-shadow: 0 2px 5px rgba(0,0,0,0.05); padding: 20px; border-radius: 12px; border: 1px solid #eee;">
+    <h2 style="color: #764ba2; border-bottom: 2px solid #00cece; display: inline-block; padding-bottom: 5px;">🐾 About Me</h2>
+    <p>I am a passionate Map Developer from <b>Ho Chi Minh City, Vietnam</b> 🇻🇳. I specialize in combining Geographic Information System (GIS) technology with modern Web Development to create insightful spatial applications.</p>
+    <br />
+    <table style="border: none; width: 100%;">
+      <tr>
+        <td>🐾 <b>DOB:</b> 26/04/1995</td>
+        <td>🐾 <b>Location:</b> Tan Nhut, Ho Chi Minh City</td>
+      </tr>
+      <tr>
+        <td>🐾 <b>Working on:</b> GIS Projects & Web Apps</td>
+        <td>🐾 <b>Learning:</b> Advanced Spatial Databases</td>
+      </tr>
+    </table>
+</div>
 
 <br>
 
 <h2 style="color: #764ba2; text-align: center;">🛠️ Tech Stack & GIS Tools</h2>
-<p align="center">I utilize a modern stack, combining robust backend systems with interactive frontends and specialized GIS software.</p>
+<p align="center">My toolkit for building modern GIS solutions.</p>
 
 <div align="center">
 
-### 💻 Languages & Core
+### 🐾 Languages & Core
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -97,15 +83,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-### 🌐 Frameworks & Backend
+### 🐾 Frameworks & Backend
 <p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
-### 🗄️ Databases & GIS
+### 🐾 Databases & GIS
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostGIS-Spatial_DB-00cece?style=flat-square&logo=postgresql&logoColor=white" />
@@ -113,7 +100,7 @@
   <img src="https://img.shields.io/badge/ArcGIS-Enterprise_GIS-005E95?style=flat-square&logo=esri&logoColor=white" />
 </p>
 
-### 🔧 Dev Tools
+### 🐾 Dev Tools
 <p>
    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -123,7 +110,6 @@
 </div>
 
 <div style="height: 4px; background: linear-gradient(to right, #00cece, #764ba2); border-radius: 2px; margin: 30px 0;"></div>
-
 
 <h2 style="color: #764ba2; text-align: center;">📈 GitHub Activity</h2>
 
@@ -136,5 +122,5 @@
 <div align="center" style="margin-top: 30px; color: #777;">
   <i>Feel free to clone/fork my projects. <br> Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues/new"><b style="color: #764ba2;">Here</b></a></i>
   <br><br>
-  <h3>🐼 Thanks for visiting my profile! 🐼</h3>
+  <h3>🐾 Thanks for visiting my profile! 🐾</h3>
 </div>
