@@ -4,7 +4,7 @@
   <h1>🐾 Hi there, I'm Trần Tuấn Khoa!</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3595F7&background=00000000&center=true&vCenter=true&width=435&lines=Python+Backend+Developer+%F0%9F%90%8D;ERP+System+Architect+%F0%9F%8F%AD;System+Optimization+%E2%9A%99%EF%B8%8F" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Python+Backend+Developer+%F0%9F%90%8D;ERP+System+Architect+%F0%9F%8F%AD;System+Optimization+%E2%9A%99%EF%B8%8F" alt="Typing Effect" />
   </a>
 
   <p>
@@ -62,44 +62,44 @@
 
 ### 🐾 Tech Stack & Tools
 
-<div align="left">
+<div align="center">
 
-**Languages & Frameworks:** <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-
-<br>
-
-**Database & DevOps:** <br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+| **Core Stack** | **Frontend & Others** | **DevOps & Tools** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,django,flask,postgres" /> | <img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs" /> | <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,pycharm" /> |
+| *Python, Django, Flask, PostgreSQL* | *JS, TS, VueJS, NodeJS* | *Docker, Git, Postman, IDEs* |
 
 </div>
 
 ---
 
-### 🐾 GitHub Stats
+### 🐾 Achievements & Stats
 
 <div align="center">
-  <a href="https://github.com/trantuankhoabc">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trantuankhoabc&theme=radical&hide_border=true&count_private=true&show_icons=true" alt="Khoa's Stats" />
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=trantuankhoabc&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Khoa's Trophies" />
   </a>
   
   <br><br>
 
+  <p>
+    <a href="https://github.com/trantuankhoabc">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trantuankhoabc&theme=radical&hide_border=true&count_private=true&show_icons=true" height="170" alt="Khoa's Stats" />
+    </a>
+    <a href="https://github.com/trantuankhoabc">
+      <img src="https://streak-stats.demolab.com?user=trantuankhoabc&theme=radical&hide_border=true&mode=weekly" height="170" alt="GitHub Streak" />
+    </a>
+  </p>
+
   <a href="https://github.com/trantuankhoabc">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=trantuankhoabc&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=trantuankhoabc&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="140" alt="Top Languages" />
   </a>
+
+  <br><br>
+
   <a href="https://github.com/trantuankhoabc">
-    <img src="https://streak-stats.demolab.com?user=trantuankhoabc&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="165" alt="GitHub Streak" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=trantuankhoabc&bg_color=141321&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
+
 </div>
