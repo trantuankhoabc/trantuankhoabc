@@ -3,10 +3,10 @@
   
   <h1>🐾 Hi there, I'm Trần Tuấn Khoa!</h1>
   
-  <p>
-    <b>Python Backend 🐍 | ERP Solutions 🏭 | System Optimization ⚙️</b>
-  </p>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3595F7&background=00000000&center=true&vCenter=true&width=435&lines=Python+Backend+Developer+%F0%9F%90%8D;ERP+System+Architect+%F0%9F%8F%AD;System+Optimization+%E2%9A%99%EF%B8%8F" alt="Typing Effect" />
+  </a>
+
   <p>
     <a href="mailto:trantuankhoabc@gmail.com">
       <img src="https://img.shields.io/badge/Email-trantuankhoabc%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -21,6 +21,8 @@
       <img src="https://img.shields.io/badge/Phone-(%2B84)%20974306100-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
     </a>
   </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=trantuankhoabc&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
 
 ---
@@ -85,16 +87,19 @@
 
 ---
 
-### 🐾 Achievements & Stats
+### 🐾 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=trantuankhoabc&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Khoa's Trophies" />
+  <a href="https://github.com/trantuankhoabc">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trantuankhoabc&theme=radical&hide_border=true&count_private=true&show_icons=true" alt="Khoa's Stats" />
   </a>
   
   <br><br>
 
   <a href="https://github.com/trantuankhoabc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trantuankhoabc&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=trantuankhoabc&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="165" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/trantuankhoabc">
+    <img src="https://streak-stats.demolab.com?user=trantuankhoabc&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="165" alt="GitHub Streak" />
   </a>
 </div>
