@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/GitHub-trantuankhoabc-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="tel:+84974306100">
-      <img src="https://img.shields.io/badge/Phone-(%2B84)%20974306100-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
+      <img src="https://img.shields.io/badge/Phone-(%2B84)%20974--306--100-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
     </a>
   </p>
   
@@ -34,12 +34,12 @@
     <td width="60%" valign="top">
       <br>
       <blockquote>
-        "Xây dựng hệ thống quản lý sản xuất tối ưu và hiệu quả."
+        "Architecting robust and efficient manufacturing management systems."
       </blockquote>
       <br>
       <ul>
-        <li>📍 <b>Location:</b> Tân Nhựt, Hồ Chí Minh, Việt Nam</li>
-        <li>🎂 <b>DOB:</b> 26/04/1995</li>
+        <li>📍 <b>Location:</b> Ho Chi Minh City, Vietnam</li>
+        <li>🎂 <b>DOB:</b> April 26, 1995</li>
         <li>🔭 <b>Current Focus:</b> ERP Manufacturing, Business Logic & Database Design</li>
         <li>🌱 <b>Learning:</b> Microservices & Cloud Architecture</li>
         <li>👯 <b>Open for collaboration on:</b> ERP Systems, Python Backend</li>
@@ -55,8 +55,8 @@
 
 | Project Name | Description | Link |
 | :--- | :--- | :---: |
-| **ERP Manufacturing** | Hệ thống quản lý quy trình sản xuất, kho bãi và chuỗi cung ứng. Tối ưu hóa luồng dữ liệu doanh nghiệp. | 🏭 _In Progress_ |
-| **KUtils Pro** | Bộ công cụ tiện ích hỗ trợ xử lý dữ liệu và tính toán nhanh cho nhà phát triển. | [![Visit](https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge&logo=netlify)](https://kutils-pro.netlify.app/) |
+| **ERP Manufacturing** | Comprehensive management system for production, warehousing, and supply chain. Designed to optimize enterprise data flow and efficiency. | 🏭 _In Progress_ |
+| **KUtils Pro** | A utility toolkit designed to accelerate data processing and rapid calculations for developers. | [![Visit](https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge&logo=netlify)](https://kutils-pro.netlify.app/) |
 
 ---
 
