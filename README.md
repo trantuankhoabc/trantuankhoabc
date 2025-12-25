@@ -4,7 +4,7 @@
   <h1>🐾 Hi there, I'm Trần Tuấn Khoa!</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Python+Backend+Developer+%F0%9F%90%8D;ERP+System+Architect+%F0%9F%8F%AD;System+Optimization+%E2%9A%99%EF%B8%8F" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Python+Backend+Developer+%F0%9F%90%8D;ERP+System+Architect+%F0%9F%8F%AD;C%23+%26+ASP.NET+Core+Beginner+%F0%9F%9A%80;WebGIS+Implementation+%F0%9F%93%8D" alt="Typing Effect" />
   </a>
 
   <p>
@@ -34,15 +34,15 @@
     <td width="60%" valign="top">
       <br>
       <blockquote>
-        "Architecting robust and efficient manufacturing management systems."
+        "Architecting robust and efficient manufacturing management systems with a focus on real-time tracking."
       </blockquote>
       <br>
       <ul>
         <li>📍 <b>Location:</b> Ho Chi Minh City, Vietnam</li>
         <li>🎂 <b>DOB:</b> April 26, 1995</li>
-        <li>🔭 <b>Current Focus:</b> ERP Manufacturing, Business Logic & Database Design</li>
-        <li>🌱 <b>Learning:</b> Microservices & Cloud Architecture</li>
-        <li>👯 <b>Open for collaboration on:</b> ERP Systems, Python Backend</li>
+        <li>🔭 <b>Current Focus:</b> ERP Manufacturing, WebGIS Tracking & Database Design</li>
+        <li>🌱 <b>Learning:</b> C# / ASP.NET Core & Cloud Architecture</li>
+        <li>👯 <b>Open for collaboration on:</b> ERP Systems, WebGIS (Leaflet.js/OSM)</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -55,7 +55,8 @@
 
 | Project Name | Description | Link |
 | :--- | :--- | :---: |
-| **ERP Manufacturing** | Comprehensive management system for production, warehousing, and supply chain. Designed to optimize enterprise data flow and efficiency. | 🏭 _In Progress_ |
+| **ERP Manufacturing** | Comprehensive management system for production, warehousing, and supply chain. | 🏭 _In Progress_ |
+| **WebGIS Tracking** | Real-time delivery tracking using **Leaflet.js** & **OpenStreetMap**. Visualizing GPS data (shippers/trucks) and movement history on an interactive map. | 📍 _Researching_ |
 | **KUtils Pro** | A utility toolkit designed to accelerate data processing and rapid calculations for developers. | [![Visit](https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge&logo=netlify)](https://kutils-pro.netlify.app/) |
 
 ---
@@ -66,8 +67,8 @@
 
 | **Core Stack** | **Frontend & Others** | **DevOps & Tools** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,django,flask,postgres" /> | <img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs" /> | <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,pycharm" /> |
-| *Python, Django, Flask, PostgreSQL* | *JS, TS, VueJS, NodeJS* | *Docker, Git, Postman, IDEs* |
+| <img src="https://skillicons.dev/icons?i=python,cs,dotnet,django,flask,postgres" /> | <img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,html,css" /> | <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,pycharm,visualstudio" /> |
+| *Python, C#, ASP.NET Core, PostgreSQL* | *JS, Leaflet/OSM, VueJS, NodeJS* | *Docker, Git, Postman, IDEs* |
 
 </div>
 
